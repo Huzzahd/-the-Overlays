@@ -4,7 +4,7 @@ A script for Mesen that adds overlays containing additional information and func
 
 # Usage
 
-To use the script, open Mesen and go to the *Debug* dropdown menu, then *Script Window*. This will open a new window, on which you can either paste the script and then press the run button, or go to the *File* dropdown menu, then *Open*, and open the script file saved on your computer, which should then automatically run.
+To use the script, open Mesen and go to the *Debug* dropdown menu, then *Script Window*. This will open a new window, on which you can either paste the script (the *.mesen.lua* file above) and then press the run button, or go to the *File* dropdown menu, then *Open*, and open the script file saved on your computer, which should then automatically run.
 
 Inside the game, holding the **START** key will display the overlay menus, which can be cycled through with the **L** and **R** keys.
 
